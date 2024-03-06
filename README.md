@@ -27,10 +27,15 @@ To run the project:
 2. Open the project in Android Studio.
 3. Compile and run the project on an Android emulator or device.
 
+### Installation via APK:
+
+- Download the APK file from the repository.
+- Install the APK on your Android device and launch the app.
+  
 ### Screenshots:
 
-- Menu of the mini-games:Menu
-- Memory Game Layout:Memory Layout
-- Tic Tac Toe Layout:Tic Tac Toe Layout
-- Tic Tac Toe Win Screen:Tic Tac Toe Win Screen
-- Memory Game Win Screen:Memory Game Win Screen
+- Menu of the mini-games: ![Menu](Imatges/MenuMinijocs.png)
+- Memory Game Layout: ![Memory Layout](Imatges/memoryLayout.png)
+- Tic Tac Toe Layout: ![Tic Tac Toe Layout](Imatges/TictactoeLayout.png)
+- Tic Tac Toe Win Screen: ![Tic Tac Toe Win Screen](Imatges/TictactoeWin.png)
+- Memory Game Win Screen: ![Memory Game Win Screen](Imatges/memoryWin.png)
